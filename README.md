@@ -1,3 +1,3 @@
 # STAT545A
-Repository for STAT545A
-  New line added from R Studio
+<h3>Repository for STAT545A</h3>
+New line added from R Studio
