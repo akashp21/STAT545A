@@ -6,4 +6,4 @@
 
 <p>Deselect the local file before committing.</p>
 
-<p>Keep testing the push function. Test</p>
+<p>Keep testing the push function.</p>
