@@ -1,3 +1,5 @@
 # STAT545A
 <h3>Repository for STAT545A</h3>
-New line added from R Studio
+<p>When adding a new line from R Studio, make sure to commit first then push.</p>
+
+
